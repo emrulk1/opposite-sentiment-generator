@@ -3,5 +3,5 @@
 ### To generate output:
 - Download and open the notebook opposite_sentiment_generator.ipynb in google colab
 - Connect runtime
-- find the notebook cell with upload option and upload(browse) input text file
+- find and run the notebook cell with upload option and upload(browse) input text file
 - run other notebook cells one by one to download, import necessary packages and generate output
